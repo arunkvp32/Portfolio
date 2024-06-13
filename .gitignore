@@ -1,0 +1,53 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
+*.pnp.js
+
+# macOS specific
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+
+# Visual Studio Code specific
+.vscode/
+.settings.json
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Build output
+/build/
+/dist/
+/out/
+
+# Dependency directories
+/bower_components/
+
+# Compiled Python files
+*.pyc
+
+# Compiled Java files
+*.class
+
+# Environment variables
+.env
+
+# Package files
+*.gz
+*.tar
+*.zip
+
+# Miscellaneous
+*.bak
+*.pdf
+
+# Ignore specific file at the root
+workspace.xml
