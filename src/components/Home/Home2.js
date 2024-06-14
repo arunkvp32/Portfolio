@@ -77,7 +77,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href=" https://x.com/vOpU00IXvfPvVfu?t=YR843JsTbJ0SaYhVLQ6AxQ&s=09"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/its_me_arun_rock_?igsh=eW0yZzhucmMzdm50"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

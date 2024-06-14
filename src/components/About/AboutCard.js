@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently employed as a software developer at ATDXT.
             <br />
-            I have completed Integrated B.E in Electronics and Communications at KGiSL
+            I have completed Integrated B.E in Electronics and Communications at KGiSL Instiute of Technology
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -31,9 +31,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Transform ideas into reality with every line!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Arun</footer>
         </blockquote>
       </Card.Body>
     </Card>

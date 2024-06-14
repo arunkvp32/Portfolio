@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/soumyajit4419"
+                href="https://github.com/arunkvp32"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Soumyajit4419"
+                href="https://x.com/vOpU00IXvfPvVfu?t=YR843JsTbJ0SaYhVLQ6AxQ&s=09"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/soumyajit4419/"
+                href="https://www.linkedin.com/in/arun-krishnamoorthy-037a7b258/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/soumyajit4419"
+                href="https://www.instagram.com/its_me_arun_rock_?igsh=eW0yZzhucmMzdm50"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
